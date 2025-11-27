@@ -11,14 +11,3 @@
     <img src="https://img.shields.io/badge/_Telegram-Contact_me-E75480?style=for-the-badge&logo=telegram&logoColor=white&labelColor=DB7093" alt="Telegram"/>
   </a>
 </p>
-
-
-
-### 💌 How to reach me:
-- **💼 Habr Career:** [daryamartyushova](https://career.habr.com/daryamartyushova)
-- **💬 Telegram:** [@anyonewhotagsmeis](https://t.me/anyonewhotagsmeis)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=FF69B4" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/💖_Made_with_love-pink?style=flat-square" alt="Made with love"/>
-</p>
